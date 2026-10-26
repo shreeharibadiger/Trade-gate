@@ -1,0 +1,10 @@
+{
+  "name": "Trade Gate — FundingPips $5K 2-Step Pro",
+  "short_name": "Trade Gate 5K",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0b1220",
+  "theme_color": "#101827",
+  "description": "XAUUSD checklist, risk calculator and journal for a $5K FundingPips 2-Step Pro challenge.",
+  "icons": []
+}
